@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Entrada OCHO",
+      "body": "Cuerpo de la Entrada OCHO",
+      "publishedAt": "2022-05-08"
+    },
+    {
+      "title": "Entrada CINCO",
+      "body": "Cuerpo de la entrada CINCO",
+      "publishedAt": "2022-04-11",
+      "id": "QnD-6Zf"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Laura",
+      "email": "laura@example.com"
+    },
+    {
+      "name": "Paco",
+      "emaiil": "paco@gmail.com",
+      "id": "D7bQijI",
+      "email": "paco@gmail.com"
+    },
+    {
+      "name": "aura",
+      "email": "aura@gmail.com",
+      "id": "Cy2wRjs"
+    }
+  ]
+}
